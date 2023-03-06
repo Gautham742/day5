@@ -5,7 +5,7 @@ body {
   margin:0;
   padding:0;
   font-family: sans-serif;
-  background: linear-gradient(#141e30, #243b55);
+  background: linear-gradient(#506ea7, #082649);
 }
 
 .login-box {
@@ -77,13 +77,13 @@ body {
 }
 
 .login-box a:hover {
-  background: #ff4000;
-  color: #fff8f8;
+  background: #ccc9c8;
+  color: #d4d1d1;
   border-radius: 5px;
-  box-shadow: 0 0 5px #f40317,
-              0 0 25px #f40317,
-              0 0 50px  #f40317,
-              0 0 100px  #f40317;
+  box-shadow: 0 0 5px #c7c2c2,
+              0 0 25px #cbc7c7,
+              0 0 50px  #a49e9f,
+              0 0 100px  #d1cbcb;
 }
 
 .login-box a span {
@@ -168,8 +168,8 @@ body {
 button{
   width:100px;
   height: 50px;
-  background-color: #be1a27;
-  border-color: #be1a27;
+  background-color: #4554dd;
+  border-color: #4834bc;
   color: #ffffff;
   border-radius: 30px;
 }
